@@ -1,0 +1,272 @@
+Log file: D:\Mine\Mani\ManiCSDP\Numerical Experiment\results_qs_sweep_safe\qs_d55_rng1.txt
+Case started at: 2026-05-09 08:42:54
+========== QS complex d=55 rng(1) ==========
+Generated quartic matrix size N = 1596
+qsmom_complex: SUCCESS, K.s = 1596, m = 3137, time = 3182.25s
+
+--- ManiCSDP ---
+ManiCSDP is starting...
+CSDP size: n = 1596, m = 3137
+Iter 1, obj:-69860.15863314, gap:1.0e+00, pinf:1.2e+02, dinf:1.7e-01, gradnorm:1.7e+03, r:1, p:1, sigma:1.000, time:1.76s
+Iter 2, obj:-15929.36158616, gap:9.8e-01, pinf:2.3e+01, dinf:6.4e-03, gradnorm:1.9e+02, r:7, p:7, sigma:2.000, time:4.92s
+Iter 3, obj:-354.87221014, gap:4.1e-01, pinf:7.0e-01, dinf:0.0e+00, gradnorm:1.7e-01, r:3, p:10, sigma:4.000, time:10.13s
+Iter 4, obj:-128.11287731, gap:3.9e-02, pinf:4.8e-01, dinf:0.0e+00, gradnorm:1.7e-02, r:2, p:3, sigma:8.000, time:17.13s
+Iter 5, obj:-167.98660069, gap:1.4e-01, pinf:3.3e-01, dinf:3.6e-03, gradnorm:8.9e-01, r:2, p:2, sigma:16.000, time:20.92s
+Iter 6, obj:-163.45162656, gap:1.7e-01, pinf:2.2e-01, dinf:5.7e-03, gradnorm:6.7e-03, r:4, p:4, sigma:32.000, time:27.43s
+Iter 7, obj:-150.42389587, gap:1.6e-01, pinf:1.4e-01, dinf:1.3e-02, gradnorm:6.3e-04, r:6, p:6, sigma:64.000, time:33.57s
+Iter 8, obj:-132.98598027, gap:1.3e-01, pinf:9.2e-02, dinf:1.5e-02, gradnorm:1.5e-01, r:11, p:12, sigma:128.000, time:39.19s
+Iter 9, obj:-119.66839986, gap:9.2e-02, pinf:6.2e-02, dinf:1.7e-02, gradnorm:3.6e+00, r:17, p:17, sigma:256.000, time:43.42s
+Iter 10, obj:-110.06110304, gap:6.2e-02, pinf:4.8e-02, dinf:1.4e-02, gradnorm:3.3e+00, r:23, p:23, sigma:256.000, time:49.58s
+Iter 11, obj:-104.62392445, gap:3.3e-02, pinf:3.6e-02, dinf:6.5e-05, gradnorm:6.9e+00, r:28, p:29, sigma:256.000, time:56.83s
+Iter 12, obj:-102.55159864, gap:2.6e-02, pinf:3.4e-02, dinf:6.7e-05, gradnorm:6.4e+00, r:29, p:29, sigma:128.000, time:61.64s
+Iter 13, obj:-100.91072337, gap:2.4e-02, pinf:5.1e-02, dinf:1.3e-04, gradnorm:4.7e+00, r:30, p:30, sigma:64.000, time:68.40s
+Iter 14, obj:-100.47024445, gap:2.9e-02, pinf:3.1e-02, dinf:3.0e-03, gradnorm:1.9e+00, r:30, p:31, sigma:64.000, time:75.73s
+Iter 15, obj:-98.97995164, gap:2.3e-02, pinf:3.6e-02, dinf:1.4e-03, gradnorm:1.7e+00, r:36, p:36, sigma:64.000, time:82.21s
+Iter 16, obj:-99.38155030, gap:2.8e-02, pinf:2.2e-02, dinf:1.1e-03, gradnorm:2.0e-01, r:39, p:39, sigma:64.000, time:90.53s
+Iter 17, obj:-99.22551547, gap:2.9e-02, pinf:1.7e-02, dinf:2.8e-03, gradnorm:2.2e-01, r:39, p:41, sigma:128.000, time:99.24s
+Iter 18, obj:-97.95363808, gap:2.5e-02, pinf:1.5e-02, dinf:3.4e-03, gradnorm:1.4e-02, r:41, p:42, sigma:256.000, time:106.99s
+Iter 19, obj:-96.89328286, gap:1.9e-02, pinf:1.2e-02, dinf:1.0e-02, gradnorm:8.9e-01, r:42, p:47, sigma:512.000, time:116.03s
+Iter 20, obj:-95.93507157, gap:8.2e-03, pinf:1.0e-02, dinf:3.2e-03, gradnorm:3.9e+00, r:46, p:47, sigma:512.000, time:122.91s
+Iter 21, obj:-93.86029575, gap:1.4e-03, pinf:1.2e-02, dinf:4.0e-03, gradnorm:2.1e+00, r:49, p:49, sigma:256.000, time:130.78s
+Iter 22, obj:-92.93901311, gap:1.9e-03, pinf:1.4e-02, dinf:3.1e-06, gradnorm:4.8e-03, r:51, p:52, sigma:128.000, time:139.08s
+Iter 23, obj:-93.73145828, gap:6.3e-03, pinf:5.5e-03, dinf:3.7e-03, gradnorm:3.7e-02, r:51, p:57, sigma:256.000, time:148.41s
+Iter 24, obj:-93.50796275, gap:2.9e-03, pinf:4.2e-03, dinf:3.5e-03, gradnorm:1.2e+00, r:53, p:57, sigma:512.000, time:153.87s
+Iter 25, obj:-92.78671361, gap:7.9e-06, pinf:5.5e-03, dinf:2.6e-04, gradnorm:8.3e-01, r:54, p:57, sigma:256.000, time:162.80s
+Iter 26, obj:-92.85129922, gap:1.2e-03, pinf:3.6e-03, dinf:1.8e-03, gradnorm:3.1e-01, r:55, p:55, sigma:128.000, time:172.65s
+Iter 27, obj:-92.82265206, gap:1.6e-03, pinf:2.5e-03, dinf:1.2e-03, gradnorm:3.0e-01, r:55, p:57, sigma:128.000, time:181.52s
+Iter 28, obj:-92.71107415, gap:1.2e-03, pinf:4.0e-03, dinf:7.4e-08, gradnorm:6.5e-05, r:55, p:57, sigma:64.000, time:192.03s
+Iter 29, obj:-92.79537732, gap:1.6e-03, pinf:2.0e-03, dinf:1.7e-03, gradnorm:4.3e-02, r:55, p:61, sigma:128.000, time:202.12s
+Iter 30, obj:-92.56424451, gap:2.2e-04, pinf:2.5e-03, dinf:6.1e-05, gradnorm:1.3e-01, r:56, p:58, sigma:128.000, time:208.31s
+Iter 31, obj:-92.64016432, gap:8.2e-04, pinf:6.5e-04, dinf:4.7e-09, gradnorm:2.3e-06, r:56, p:57, sigma:128.000, time:218.41s
+Iter 32, obj:-92.58891115, gap:5.4e-04, pinf:1.0e-04, dinf:5.5e-09, gradnorm:8.2e-07, r:56, p:62, sigma:256.000, time:228.21s
+Iter 33, obj:-92.54816712, gap:3.3e-04, pinf:6.3e-05, dinf:3.4e-10, gradnorm:2.7e-07, r:56, p:62, sigma:512.000, time:238.07s
+Iter 34, obj:-92.51342135, gap:1.4e-04, pinf:2.7e-05, dinf:2.9e-08, gradnorm:1.3e-05, r:56, p:62, sigma:1024.000, time:247.62s
+Iter 35, obj:-92.49456932, gap:3.8e-05, pinf:7.3e-06, dinf:3.1e-10, gradnorm:1.9e-07, r:56, p:62, sigma:2048.000, time:257.28s
+Iter 36, obj:-92.48864775, gap:5.9e-06, pinf:1.1e-06, dinf:2.0e-08, gradnorm:1.4e-05, r:56, p:62, sigma:4096.000, time:266.94s
+Iter 37, obj:-92.48763757, gap:5.1e-07, pinf:1.1e-07, dinf:1.1e-06, gradnorm:7.8e-04, r:56, p:62, sigma:8192.000, time:276.69s
+Iter 38, obj:-92.48755971, gap:8.2e-08, pinf:1.1e-07, dinf:3.3e-08, gradnorm:2.4e-05, r:56, p:62, sigma:4096.000, time:286.36s
+Iter 39, obj:-92.48754809, gap:2.2e-08, pinf:6.7e-09, dinf:2.4e-10, gradnorm:1.7e-07, r:56, p:62, sigma:2048.000, time:295.96s
+Iter 40, obj:-92.48754507, gap:5.8e-09, pinf:1.1e-09, dinf:3.8e-10, gradnorm:2.0e-07, r:56, p:62, sigma:2048.000, time:305.49s
+Optimality is reached!
+ManiCSDP: optimum = -92.48754507, time = 305.49s
+ManiCSDP: SUCCESS, optimum = -92.48754507, eta = 5.8e-09, time = 305.52s
+
+--- SeDuMi ---
+SeDuMi: DONE, numerr = 0, iter = 21, time = 1191.87s
+SeDuMi: optimum = -92.48754535, pinf = 4.87e-08, dinf = 0.00e+00, gap = 1.43e-10
+
+--- convertCtoR ---
+convertCtoR: SUCCESS, K_r.s = 3192, m = 3137, time = 310.33s
+
+--- ManiSDP ---
+ManiSDP is starting...
+SDP size: n = 3192, m = 3137
+Iter 1, obj:-69087.73024053, gap:1.0e+00, pinf:1.2e+02, dinf:2.0e-01, gradnorm:1.3e+03, r:1, p:1, sigma:1.000, time:3.50s
+Iter 2, obj:-11485.34820550, gap:9.8e-01, pinf:1.9e+01, dinf:5.6e-02, gradnorm:6.1e+01, r:7, p:7, sigma:2.000, time:9.58s
+Iter 3, obj:-2352.62487012, gap:8.8e-01, pinf:3.4e+00, dinf:1.2e-02, gradnorm:3.5e+01, r:11, p:13, sigma:4.000, time:16.76s
+Iter 4, obj:-399.00058175, gap:4.8e-01, pinf:6.0e-01, dinf:5.5e-05, gradnorm:4.7e-02, r:8, p:17, sigma:8.000, time:29.58s
+Iter 5, obj:-173.57790384, gap:1.5e-01, pinf:3.1e-01, dinf:0.0e+00, gradnorm:5.8e-02, r:8, p:12, sigma:16.000, time:42.14s
+Iter 6, obj:-162.30821411, gap:1.6e-01, pinf:2.3e-01, dinf:9.5e-03, gradnorm:2.2e+00, r:8, p:8, sigma:32.000, time:49.56s
+Iter 7, obj:-149.21477469, gap:1.5e-01, pinf:1.5e-01, dinf:9.0e-03, gradnorm:3.4e-01, r:14, p:14, sigma:64.000, time:58.32s
+Iter 8, obj:-132.35912914, gap:1.3e-01, pinf:1.0e-01, dinf:2.0e-02, gradnorm:1.0e+00, r:19, p:20, sigma:128.000, time:67.58s
+Iter 9, obj:-119.00211441, gap:1.0e-01, pinf:7.2e-02, dinf:3.5e-02, gradnorm:3.4e+00, r:25, p:25, sigma:256.000, time:76.03s
+Iter 10, obj:-113.15589957, gap:6.5e-02, pinf:6.5e-02, dinf:2.6e-02, gradnorm:1.1e+01, r:31, p:31, sigma:256.000, time:85.67s
+Iter 11, obj:-104.23053766, gap:2.9e-02, pinf:9.7e-02, dinf:1.8e-02, gradnorm:5.7e+00, r:37, p:37, sigma:128.000, time:93.15s
+Iter 12, obj:-103.29982123, gap:9.7e-03, pinf:7.6e-02, dinf:0.0e+00, gradnorm:8.7e+00, r:43, p:43, sigma:128.000, time:104.01s
+Iter 13, obj:-94.86384455, gap:1.1e-02, pinf:6.8e-02, dinf:7.1e-05, gradnorm:3.3e+00, r:43, p:43, sigma:64.000, time:112.07s
+Iter 14, obj:-99.84965388, gap:1.1e-02, pinf:5.3e-02, dinf:0.0e+00, gradnorm:5.0e+00, r:45, p:45, sigma:64.000, time:120.63s
+Iter 15, obj:-98.32107236, gap:1.7e-02, pinf:4.3e-02, dinf:2.9e-03, gradnorm:1.7e+00, r:45, p:45, sigma:64.000, time:130.11s
+Iter 16, obj:-100.25973134, gap:3.1e-02, pinf:4.4e-02, dinf:5.4e-03, gradnorm:7.8e-01, r:51, p:51, sigma:64.000, time:141.36s
+Iter 17, obj:-102.11187486, gap:3.0e-02, pinf:3.0e-02, dinf:0.0e+00, gradnorm:3.3e+00, r:57, p:57, sigma:128.000, time:153.95s
+Iter 18, obj:-97.44673555, gap:1.9e-02, pinf:3.6e-02, dinf:7.1e-03, gradnorm:8.0e-01, r:57, p:57, sigma:64.000, time:162.29s
+Iter 19, obj:-97.72606376, gap:1.6e-02, pinf:4.0e-02, dinf:2.0e-03, gradnorm:2.2e+00, r:63, p:63, sigma:64.000, time:175.78s
+Iter 20, obj:-97.43056831, gap:2.0e-02, pinf:2.6e-02, dinf:4.2e-03, gradnorm:9.7e-01, r:69, p:69, sigma:64.000, time:188.89s
+Iter 21, obj:-97.64649780, gap:1.9e-02, pinf:2.8e-02, dinf:1.8e-03, gradnorm:9.1e-01, r:75, p:75, sigma:64.000, time:204.29s
+Iter 22, obj:-97.21350723, gap:1.8e-02, pinf:2.1e-02, dinf:1.9e-03, gradnorm:6.8e-01, r:77, p:81, sigma:64.000, time:220.36s
+Iter 23, obj:-96.92309357, gap:1.9e-02, pinf:1.7e-02, dinf:1.7e-03, gradnorm:1.7e-01, r:81, p:81, sigma:64.000, time:237.59s
+Iter 24, obj:-96.74744110, gap:1.9e-02, pinf:1.3e-02, dinf:9.0e-04, gradnorm:8.4e-03, r:83, p:87, sigma:128.000, time:254.58s
+Iter 25, obj:-96.35567188, gap:1.7e-02, pinf:1.2e-02, dinf:4.6e-03, gradnorm:4.3e-01, r:85, p:89, sigma:256.000, time:270.69s
+Iter 26, obj:-95.45181159, gap:1.4e-02, pinf:1.0e-02, dinf:2.4e-03, gradnorm:6.7e-03, r:89, p:91, sigma:256.000, time:287.34s
+Iter 27, obj:-95.11545620, gap:1.1e-02, pinf:8.5e-03, dinf:8.3e-03, gradnorm:8.0e-01, r:92, p:95, sigma:512.000, time:303.97s
+Iter 28, obj:-94.36179005, gap:8.8e-03, pinf:8.7e-03, dinf:6.2e-05, gradnorm:5.2e+00, r:96, p:98, sigma:512.000, time:316.09s
+Iter 29, obj:-93.84532184, gap:2.5e-03, pinf:7.7e-03, dinf:5.4e-03, gradnorm:2.8e+00, r:96, p:98, sigma:256.000, time:329.40s
+Iter 30, obj:-91.45010777, gap:7.5e-03, pinf:2.4e-02, dinf:7.3e-03, gradnorm:4.7e-01, r:102, p:102, sigma:128.000, time:342.57s
+Iter 31, obj:-93.02192938, gap:2.7e-03, pinf:6.1e-03, dinf:3.6e-03, gradnorm:6.1e-02, r:104, p:104, sigma:256.000, time:356.14s
+Iter 32, obj:-92.80158013, gap:1.6e-03, pinf:2.4e-03, dinf:4.3e-03, gradnorm:7.1e-02, r:108, p:110, sigma:512.000, time:373.82s
+Iter 33, obj:-92.52687402, gap:1.1e-04, pinf:1.7e-03, dinf:2.3e-04, gradnorm:2.5e-01, r:110, p:114, sigma:512.000, time:390.64s
+Iter 34, obj:-92.65860650, gap:9.2e-04, pinf:1.1e-03, dinf:5.7e-08, gradnorm:1.4e-05, r:110, p:112, sigma:256.000, time:410.16s
+Iter 35, obj:-92.57984244, gap:3.8e-05, pinf:6.8e-04, dinf:1.8e-03, gradnorm:2.3e-01, r:110, p:116, sigma:512.000, time:428.55s
+Iter 36, obj:-92.45922634, gap:1.5e-04, pinf:1.4e-03, dinf:3.1e-10, gradnorm:1.1e-07, r:110, p:116, sigma:256.000, time:448.39s
+Iter 37, obj:-92.52842511, gap:2.2e-04, pinf:4.2e-05, dinf:5.5e-10, gradnorm:2.1e-07, r:110, p:116, sigma:512.000, time:468.33s
+Iter 38, obj:-92.50499805, gap:9.4e-05, pinf:1.8e-05, dinf:8.2e-10, gradnorm:1.4e-07, r:110, p:116, sigma:1024.000, time:487.41s
+Iter 39, obj:-92.49228293, gap:2.5e-05, pinf:4.9e-06, dinf:5.0e-10, gradnorm:1.1e-07, r:110, p:116, sigma:2048.000, time:506.34s
+Iter 40, obj:-92.48828844, gap:4.0e-06, pinf:7.7e-07, dinf:7.2e-09, gradnorm:3.7e-06, r:110, p:116, sigma:4096.000, time:525.89s
+Iter 41, obj:-92.48760648, gap:3.2e-07, pinf:7.2e-08, dinf:6.9e-07, gradnorm:3.6e-04, r:110, p:116, sigma:8192.000, time:548.38s
+Iter 42, obj:-92.48755569, gap:6.3e-08, pinf:6.6e-08, dinf:6.0e-09, gradnorm:3.0e-06, r:110, p:116, sigma:4096.000, time:568.64s
+Iter 43, obj:-92.48754584, gap:1.0e-08, pinf:2.4e-09, dinf:1.7e-08, gradnorm:8.3e-06, r:110, p:116, sigma:4096.000, time:588.32s
+Iter 44, obj:-92.48754445, gap:2.4e-09, pinf:2.4e-09, dinf:1.4e-10, gradnorm:5.0e-08, r:110, p:116, sigma:2048.000, time:607.66s
+Optimality is reached!
+ManiSDP: optimum = -92.48754445, time = 607.66s
+ManiSDP: SUCCESS, optimum = -92.48754445, eta = 2.4e-09, time = 607.71s
+
+--- MOSEK ---
+
+--------------------------------------------------------------------------------
+             Access violation detected at 2026-05-09 10:16:19 +0800
+--------------------------------------------------------------------------------
+
+Configuration:
+  Crash Decoding           : Disabled - No sandbox or build area path
+  Crash Mode               : continue (default)
+  Default Encoding         : UTF-8
+  Deployed                 : false
+  Graphics Driver          : Uninitialized hardware 
+  Graphics card 1          : Intel Corporation ( 0x8086 ) Intel(R) Iris(R) Xe Graphics Version 31.0.101.4502 (2023-8-7)
+  Java Version             : Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit Server VM mixed mode
+  MATLAB Architecture      : win64
+  MATLAB Entitlement ID    : 12117663
+  MATLAB Root              : D:\matlab
+  MATLAB Version           : 24.1.0.2537033 (R2024a)
+  OpenGL                   : hardware
+  Operating System         : Microsoft Windows 11 Home China
+  Process ID               : 11376
+  Processor ID             : x86 Family 6 Model 154 Stepping 3, GenuineIntel
+  Session Key              : ec7fa590-6e00-4391-bfbb-aa92c5c51fa6
+  Window System            : Version 10.0 (Build 26200)
+
+Fault Count: 1
+
+
+Abnormal termination:
+Access violation
+
+Current Thread: 'MCR 0 interpreter thread' id 14484
+
+Register State (from fault):
+  RAX = 0000000000000000  RBX = 000002185c800000
+  RCX = 00007ffdf200b164  RDX = 000000005a040000
+  RSP = 000000a9319ed500  RBP = 000000a9319ed5e0
+  RSI = 000002185c800000  RDI = 0000000000000000
+ 
+   R8 = 00000000000005af   R9 = 000002185c800000
+  R10 = 000000000000005f  R11 = 00000000c000012d
+  R12 = 0000000000000000  R13 = 0000000000000000
+  R14 = 00007ffdf2140ce0  R15 = 0000000000000000
+ 
+  RIP = 00007ffdf146fb97  EFL = 00010246
+ 
+   CS = 0033   FS = 0053   GS = 002b
+
+Stack Trace (from fault):
+[  0] 0x00007ffdf146fb97 D:\Mosek\11.1\tools\platform\win64x86\bin\mosek64_11_1.dll+09042839 MSK_getbuildinfo+01876071
+[  1] 0x00007ffdf146c1f7 D:\Mosek\11.1\tools\platform\win64x86\bin\mosek64_11_1.dll+09028087 MSK_getbuildinfo+01861319
+[  2] 0x00007ffdf146baa1 D:\Mosek\11.1\tools\platform\win64x86\bin\mosek64_11_1.dll+09026209 MSK_getbuildinfo+01859441
+[  3] 0x00007ffdf146b316 D:\Mosek\11.1\tools\platform\win64x86\bin\mosek64_11_1.dll+09024278 MSK_getbuildinfo+01857510
+[  4] 0x00007ffdf148ea04 D:\Mosek\11.1\tools\platform\win64x86\bin\mosek64_11_1.dll+09169412 MSK_getbuildinfo+02002644
+[  5] 0x00007ffdf0dcc9b5 D:\Mosek\11.1\tools\platform\win64x86\bin\mosek64_11_1.dll+02083253 MSK_unittestmain+01494997
+[  6] 0x00007ffdf0d82dbb D:\Mosek\11.1\tools\platform\win64x86\bin\mosek64_11_1.dll+01781179 MSK_unittestmain+01192923
+[  7] 0x00007ffdf0cc164b D:\Mosek\11.1\tools\platform\win64x86\bin\mosek64_11_1.dll+00988747 MSK_unittestmain+00400491
+[  8] 0x00007ffdf0cff74d D:\Mosek\11.1\tools\platform\win64x86\bin\mosek64_11_1.dll+01242957 MSK_unittestmain+00654701
+[  9] 0x00007ffdf0cf4fac D:\Mosek\11.1\tools\platform\win64x86\bin\mosek64_11_1.dll+01200044 MSK_unittestmain+00611788
+[ 10] 0x00007ffdf0fbf377 D:\Mosek\11.1\tools\platform\win64x86\bin\mosek64_11_1.dll+04125559 MSK_basiscond+00008087
+[ 11] 0x00007ffdf106b898 D:\Mosek\11.1\tools\platform\win64x86\bin\mosek64_11_1.dll+04831384 MSK_optimizecb+00018872
+[ 12] 0x00007ffdf106bf04 D:\Mosek\11.1\tools\platform\win64x86\bin\mosek64_11_1.dll+04833028 MSK_optimizecb+00020516
+[ 13] 0x00007ffdf106c2ed D:\Mosek\11.1\tools\platform\win64x86\bin\mosek64_11_1.dll+04834029 MSK_optimize+00000285
+[ 14] 0x00007ffee1073f1e       D:\Mosek\11.1\toolbox\r2019b\mosekopt.mexw64+00081694 mexfilerequiredapiversion+00077598
+[ 15] 0x00007ffee107508f       D:\Mosek\11.1\toolbox\r2019b\mosekopt.mexw64+00086159 mexFunction+00000047
+[ 16] 0x00007ffe697b7709                     D:\matlab\bin\win64\libmex.dll+00685833 mexfile::Inspector::needs_upgrade+00023801
+[ 17] 0x00007ffe697ba6f2                     D:\matlab\bin\win64\libmex.dll+00698098 MexRetrieveVersion+00009042
+[ 18] 0x00007ffe697baa38                     D:\matlab\bin\win64\libmex.dll+00698936 MexRetrieveVersion+00009880
+[ 19] 0x00007ffe6979c788                     D:\matlab\bin\win64\libmex.dll+00575368 mexUnlock+00018024
+[ 20] 0x00007ffe6e7d75b8               D:\matlab\bin\win64\m_dispatcher.dll+01209784 Mfh_file::dispatch_file_common+00000152
+[ 21] 0x00007ffe6e7d64cb               D:\matlab\bin\win64\m_dispatcher.dll+01205451 Mfh_error::lookup+00012347
+[ 22] 0x00007ffe6e7d750d               D:\matlab\bin\win64\m_dispatcher.dll+01209613 Mfh_file::dispatch+00000045
+[ 23] 0x00007ffe69437a7d       D:\matlab\bin\win64\libmwlxemainservices.dll+00424573 mwboost::archive::codecvt_null<wchar_t>::do_max_length+00311741
+[ 24] 0x00007ffe69446e3e       D:\matlab\bin\win64\libmwlxemainservices.dll+00486974 mwboost::archive::codecvt_null<wchar_t>::do_max_length+00374142
+[ 25] 0x00007ffe662d1746                      D:\matlab\bin\win64\m_lxe.dll+06231878 MathWorks::lxe::ReadOnlyXvaluePtr::operator=+00006966
+[ 26] 0x00007ffe662d354b                      D:\matlab\bin\win64\m_lxe.dll+06239563 MathWorks::lxe::ReadOnlyXvaluePtr::operator=+00014651
+[ 27] 0x00007ffe66202d58                      D:\matlab\bin\win64\m_lxe.dll+05385560 MathWorks::lxe::function_handle::invoke_with_adaptor+00016024
+[ 28] 0x00007ffe662215b9                      D:\matlab\bin\win64\m_lxe.dll+05510585 MathWorks::lxe::function_handle::invoke_with_adaptor+00141049
+[ 29] 0x00007ffe660d3277                      D:\matlab\bin\win64\m_lxe.dll+04141687 MathWorks::lxe::GetTag+00006727
+[ 30] 0x00007ffe660bd0b4                      D:\matlab\bin\win64\m_lxe.dll+04051124 MathWorks::lxe::SetEngineImplUnlinkFlagForAllCallsOnStack+00042340
+[ 31] 0x00007ffe660c12d5                      D:\matlab\bin\win64\m_lxe.dll+04068053 MathWorks::lxe::SetEngineImplUnlinkFlagForAllCallsOnStack+00059269
+[ 32] 0x00007ffe69537c06       D:\matlab\bin\win64\libmwlxemainservices.dll+01473542 FeatureTestObservableWorkspace+00211910
+[ 33] 0x00007ffe6942fdb3       D:\matlab\bin\win64\libmwlxemainservices.dll+00392627 mwboost::archive::codecvt_null<wchar_t>::do_max_length+00279795
+[ 34] 0x00007ffe6942f513       D:\matlab\bin\win64\libmwlxemainservices.dll+00390419 mwboost::archive::codecvt_null<wchar_t>::do_max_length+00277587
+[ 35] 0x00007ffe69432012       D:\matlab\bin\win64\libmwlxemainservices.dll+00401426 mwboost::archive::codecvt_null<wchar_t>::do_max_length+00288594
+[ 36] 0x00007ffe6e7d75b8               D:\matlab\bin\win64\m_dispatcher.dll+01209784 Mfh_file::dispatch_file_common+00000152
+[ 37] 0x00007ffe6e7d64cb               D:\matlab\bin\win64\m_dispatcher.dll+01205451 Mfh_error::lookup+00012347
+[ 38] 0x00007ffe6e7d750d               D:\matlab\bin\win64\m_dispatcher.dll+01209613 Mfh_file::dispatch+00000045
+[ 39] 0x00007ffe69437a7d       D:\matlab\bin\win64\libmwlxemainservices.dll+00424573 mwboost::archive::codecvt_null<wchar_t>::do_max_length+00311741
+[ 40] 0x00007ffe69446e3e       D:\matlab\bin\win64\libmwlxemainservices.dll+00486974 mwboost::archive::codecvt_null<wchar_t>::do_max_length+00374142
+[ 41] 0x00007ffe662d1746                      D:\matlab\bin\win64\m_lxe.dll+06231878 MathWorks::lxe::ReadOnlyXvaluePtr::operator=+00006966
+[ 42] 0x00007ffe662d2d95                      D:\matlab\bin\win64\m_lxe.dll+06237589 MathWorks::lxe::ReadOnlyXvaluePtr::operator=+00012677
+[ 43] 0x00007ffe66202d58                      D:\matlab\bin\win64\m_lxe.dll+05385560 MathWorks::lxe::function_handle::invoke_with_adaptor+00016024
+[ 44] 0x00007ffe662211a9                      D:\matlab\bin\win64\m_lxe.dll+05509545 MathWorks::lxe::function_handle::invoke_with_adaptor+00140009
+[ 45] 0x00007ffe65fc8366                      D:\matlab\bin\win64\m_lxe.dll+03048294 MathWorks::lxe::LXEConstants::IsIfElse+00533270
+[ 46] 0x00007ffe65fcc4a2                      D:\matlab\bin\win64\m_lxe.dll+03064994 MathWorks::lxe::LXEConstants::IsY+00011986
+[ 47] 0x00007ffe65fc9ce3                      D:\matlab\bin\win64\m_lxe.dll+03054819 MathWorks::lxe::LXEConstants::IsY+00001811
+[ 48] 0x00007ffe65fcd585                      D:\matlab\bin\win64\m_lxe.dll+03069317 MathWorks::lxe::LXEConstants::IsY+00016309
+[ 49] 0x00007ffe65fcd833                      D:\matlab\bin\win64\m_lxe.dll+03070003 MathWorks::lxe::LXEConstants::IsY+00016995
+[ 50] 0x00007ffe65fcd19e                      D:\matlab\bin\win64\m_lxe.dll+03068318 MathWorks::lxe::LXEConstants::IsY+00015310
+[ 51] 0x00007ffe65fc9426                      D:\matlab\bin\win64\m_lxe.dll+03052582 MathWorks::lxe::LxeTypes::GetTypeXvalueOf+00000262
+[ 52] 0x00007ffe660bda5a                      D:\matlab\bin\win64\m_lxe.dll+04053594 MathWorks::lxe::SetEngineImplUnlinkFlagForAllCallsOnStack+00044810
+[ 53] 0x00007ffe660c12d5                      D:\matlab\bin\win64\m_lxe.dll+04068053 MathWorks::lxe::SetEngineImplUnlinkFlagForAllCallsOnStack+00059269
+[ 54] 0x00007ffe69537c06       D:\matlab\bin\win64\libmwlxemainservices.dll+01473542 FeatureTestObservableWorkspace+00211910
+[ 55] 0x00007ffe6947b686       D:\matlab\bin\win64\libmwlxemainservices.dll+00702086 mwboost::archive::detail::pointer_oserializer<mwboost::archive::xml_oarchive,MathWorks::lxe::PreLineExecutionEvent>::save_object_ptr+00073878
+[ 56] 0x00007ffe6947d204       D:\matlab\bin\win64\libmwlxemainservices.dll+00709124 mwboost::archive::detail::pointer_oserializer<mwboost::archive::xml_oarchive,MathWorks::lxe::PreLineExecutionEvent>::save_object_ptr+00080916
+[ 57] 0x00007ffe694fafff       D:\matlab\bin\win64\libmwlxemainservices.dll+01224703 mwboost::archive::detail::oserializer<mwboost::archive::text_oarchive,MathWorks::MatlabComponents::ComponentIdentifier>::save_object_data+00323007
+[ 58] 0x00007ffe694fcde7       D:\matlab\bin\win64\libmwlxemainservices.dll+01232359 mwboost::archive::detail::oserializer<mwboost::archive::text_oarchive,MathWorks::MatlabComponents::ComponentIdentifier>::save_object_data+00330663
+[ 59] 0x00007ffe694fbd84       D:\matlab\bin\win64\libmwlxemainservices.dll+01228164 mwboost::archive::detail::oserializer<mwboost::archive::text_oarchive,MathWorks::MatlabComponents::ComponentIdentifier>::save_object_data+00326468
+[ 60] 0x00007ffe6ad8885c              D:\matlab\bin\win64\m_interpreter.dll+00755804 inEvalCmdWithLocalReturnInDesiredWSAndPublishEvents+00000076
+[ 61] 0x00007ffe69d6ea75                        D:\matlab\bin\win64\iqm.dll+00780917 iqm::InternalEvalPlugin::inEvalCmdWithLocalReturn+00000101
+[ 62] 0x00007ffe69d6e4cc                        D:\matlab\bin\win64\iqm.dll+00779468 iqm::InternalEvalPlugin::execute+00000236
+[ 63] 0x00007ffe69d4de5e                        D:\matlab\bin\win64\iqm.dll+00646750 iqm::Iqm::setupIqmFcnPtrs+00104766
+[ 64] 0x00007ffe69d23900                        D:\matlab\bin\win64\iqm.dll+00473344 iqm::Iqm::create+00037856
+[ 65] 0x00007ffe69cc0493                        D:\matlab\bin\win64\iqm.dll+00066707 iqm::BaseIqmPlugin::processMFileError+00001763
+[ 66] 0x00007ffe6ec0c58c                     D:\matlab\bin\win64\mlutil.dll+03196300 cmddistributor::IIPRunNowMessage::deliver+00000028
+[ 67] 0x00007ffe702a6867                    D:\matlab\bin\win64\libmwms.dll+01730663 foundation::msg_svc::exchange::MessageQueue::deliver+00000455
+[ 68] 0x00007ffe702a84c1                    D:\matlab\bin\win64\libmwms.dll+01737921 foundation::msg_svc::exchange::NoOpMessage::deliver+00003025
+[ 69] 0x00007ffe70291332                    D:\matlab\bin\win64\libmwms.dll+01643314 foundation::msg_svc::exchange::TerminatedException::operator=+00027698
+[ 70] 0x00007ffe7029ea5d                    D:\matlab\bin\win64\libmwms.dll+01698397 foundation::msg_svc::exchange::TerminatedException::operator=+00082781
+[ 71] 0x00007ffe7029cf9c                    D:\matlab\bin\win64\libmwms.dll+01691548 foundation::msg_svc::exchange::TerminatedException::operator=+00075932
+[ 72] 0x00007ffe6ea6b0c1                     D:\matlab\bin\win64\mlutil.dll+01487041 cmddistributor::IIP::EventMgrBypass::operator=+00051729
+[ 73] 0x00007ffe6ea3b794                     D:\matlab\bin\win64\mlutil.dll+01292180 cmddistributor::DebugLoopEvent::serializeExplicit+00024436
+[ 74] 0x00007ffe7470a51c                        D:\matlab\bin\win64\mvm.dll+00501020 mvm::MVM::setClientCapabilities+00010332
+[ 75] 0x00007ffe69b7e861                        D:\matlab\bin\win64\mcr.dll+00256097 mwboost::archive::codecvt_null<wchar_t>::do_out+00003329
+[ 76] 0x00007ffe69b7e202                        D:\matlab\bin\win64\mcr.dll+00254466 mwboost::archive::codecvt_null<wchar_t>::do_out+00001698
+[ 77] 0x00007ffe69b58c7e                        D:\matlab\bin\win64\mcr.dll+00101502 mcrFunctionSignature::set_signature+00080494
+[ 78] 0x00007ffe69b765a2                        D:\matlab\bin\win64\mcr.dll+00222626 mwboost::archive::codecvt_null<wchar_t>::`default constructor closure'+00017282
+[ 79] 0x00007ffe69d7aaaa                        D:\matlab\bin\win64\iqm.dll+00830122 iqm::PackagedTaskPlugin::execute+00000074
+[ 80] 0x00007ffe69d4de5e                        D:\matlab\bin\win64\iqm.dll+00646750 iqm::Iqm::setupIqmFcnPtrs+00104766
+[ 81] 0x00007ffe69d1c764                        D:\matlab\bin\win64\iqm.dll+00444260 iqm::Iqm::create+00008772
+[ 82] 0x00007ffe69858476                D:\matlab\bin\win64\libmwbridge.dll+00099446 ioReadLine+00000406
+[ 83] 0x00007ffe698582a5                D:\matlab\bin\win64\libmwbridge.dll+00098981 ioReadLine+00000165
+[ 84] 0x00007ffe6988a220                D:\matlab\bin\win64\libmwbridge.dll+00303648 mnGetCommandLineBuffer+00000288
+[ 85] 0x00007ffe6988a6c7                D:\matlab\bin\win64\libmwbridge.dll+00304839 mnParser+00000487
+[ 86] 0x00007ffe69bac44f                        D:\matlab\bin\win64\mcr.dll+00443471 mcr_initialize_main+00016591
+[ 87] 0x00007ffe69b58c7e                        D:\matlab\bin\win64\mcr.dll+00101502 mcrFunctionSignature::set_signature+00080494
+[ 88] 0x00007ffe69b765a2                        D:\matlab\bin\win64\mcr.dll+00222626 mwboost::archive::codecvt_null<wchar_t>::`default constructor closure'+00017282
+[ 89] 0x00007ffe69d7aaaa                        D:\matlab\bin\win64\iqm.dll+00830122 iqm::PackagedTaskPlugin::execute+00000074
+[ 90] 0x00007ffe69d4de5e                        D:\matlab\bin\win64\iqm.dll+00646750 iqm::Iqm::setupIqmFcnPtrs+00104766
+[ 91] 0x00007ffe69d1d70a                        D:\matlab\bin\win64\iqm.dll+00448266 iqm::Iqm::create+00012778
+[ 92] 0x00007ffe69d1dbf1                        D:\matlab\bin\win64\iqm.dll+00449521 iqm::Iqm::create+00014033
+[ 93] 0x00007ffe69d1d07d                        D:\matlab\bin\win64\iqm.dll+00446589 iqm::Iqm::create+00011101
+[ 94] 0x00007ffe69b9245c                        D:\matlab\bin\win64\mcr.dll+00336988 mcrInstantiationError::operator=+00010604
+[ 95] 0x00007ffe69b92ef8                        D:\matlab\bin\win64\mcr.dll+00339704 mcrInstantiationError::operator=+00013320
+[ 96] 0x00007ffe69b90531                        D:\matlab\bin\win64\mcr.dll+00329009 mcrInstantiationError::operator=+00002625
+[ 97] 0x00007ffe755991aa D:\matlab\bin\win64\mwboost_thread-vc143-mt-x64-1_78.dll+00037290 mwboost::detail::win32::handle_manager::swap+00001626
+[ 98] 0x00007ffef3fa37b0                   C:\WINDOWS\System32\ucrtbase.dll+00014256 wcsrchr+00000336
+[ 99] 0x00007ffef5bfe8d7                   C:\WINDOWS\System32\KERNEL32.DLL+00190679 BaseThreadInitThunk+00000023
+[100] 0x00007ffef662c3fc                      C:\WINDOWS\SYSTEM32\ntdll.dll+00574460 RtlUserThreadStart+00000044
+
+
+This error was detected while a MEX-file was running. If the MEX-file
+is not an official MathWorks function, please examine its source code
+for errors. Please consult the External Interfaces Guide for information
+on debugging MEX-files.
+** This crash report has been saved to disk as C:\Users\Lenovo\AppData\Local\Temp\matlab_crash_dump.11376-1 **
+
+
+
+MATLAB is exiting because of fatal error

@@ -1,0 +1,200 @@
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\examples] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\autodiff] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\autodiff\basic_examples_AD] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\autodiff\functions_AD] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\core] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\lifts] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\complexcircle] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\essential] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\essential\privateessential] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\euclidean] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\fixedrank] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\fixedranktensors] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\grassmann] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\hyperbolic] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\multinomial] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\oblique] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\positive] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\rotations] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\specialeuclidean] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\sphere] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\stiefel] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\symfixedrank] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\ttfixedrank] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\ttfixedrank\TTeMPS_1.1] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\ttfixedrank\TTeMPS_1.1\algorithms] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\ttfixedrank\TTeMPS_1.1\algorithms\completion] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\ttfixedrank\TTeMPS_1.1\algorithms\eigenvalue] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\ttfixedrank\TTeMPS_1.1\algorithms\linearsystem] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\ttfixedrank\TTeMPS_1.1\examples] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\ttfixedrank\TTeMPS_1.1\operators] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\solvers] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\solvers\arc] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\solvers\barzilaiborwein] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\solvers\bfgs] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\solvers\conjugategradient] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\solvers\gradientapproximations] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\solvers\hessianapproximations] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\solvers\linesearch] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\solvers\neldermead] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\solvers\preconditioners] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\solvers\pso] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\solvers\steepestdescent] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\solvers\stochasticgradient] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\solvers\trustregions] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\tools] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\Numerical Experiment] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\src] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\src\basicfunction] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\src\C-files] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\src\primal] 
+[警告: 函数 tensorprod 与某个 MATLAB 内置函数同名。建议您重命名该函数以避免潜在的名称冲突。] 
+[> 位置：path (第 109 行)
+位置: addpath>doPathAddition (第 126 行)
+位置: addpath (第 90 行)] 
+[警告: 函数 tensorprod 与某个 MATLAB 内置函数同名。建议您重命名该函数以避免潜在的名称冲突。] 
+[> 位置：path (第 109 行)
+位置: addpath>doPathAddition (第 126 行)
+位置: addpath (第 90 行)
+位置: run_qs_sweep_safe (第 16 行)] 
+========== QS SWEEP SAFE RUN START ==========
+Started at: 2026-05-09 14:22:52
+Output directory: D:\Mine\Mani\ManiCSDP\Numerical Experiment\results_qs_sweep_safe
+
+=== Function path preflight ===
+qsmom_complex -> D:\Mine\Mani\ManiCSDP\src\basicfunction\qsmom_complex.m
+ManiCSDP -> D:\Mine\Mani\ManiCSDP\src\primal\ManiCSDP.m
+sedumi -> D:\matlab\cvx\sedumi\sedumi.m
+convertCtoR -> D:\Mine\Mani\ManiCSDP\src\basicfunction\convertCtoR.m
+ManiSDP -> D:\Mine\Mani\ManiSDP-matlab-main\ManiSDP-matlab-main\src\primal\ManiSDP.m
+=== Function path preflight END ===
+
+
+========== PHASE1 START ==========
+Skipping existing log file: D:\Mine\Mani\ManiCSDP\Numerical Experiment\results_qs_sweep_safe\qs_d45_rng1.txt
+Skipping existing log file: D:\Mine\Mani\ManiCSDP\Numerical Experiment\results_qs_sweep_safe\qs_d45_rng2.txt
+Skipping existing log file: D:\Mine\Mani\ManiCSDP\Numerical Experiment\results_qs_sweep_safe\qs_d45_rng3.txt
+Skipping existing log file: D:\Mine\Mani\ManiCSDP\Numerical Experiment\results_qs_sweep_safe\qs_d50_rng1.txt
+Skipping existing log file: D:\Mine\Mani\ManiCSDP\Numerical Experiment\results_qs_sweep_safe\qs_d50_rng2.txt
+Skipping existing log file: D:\Mine\Mani\ManiCSDP\Numerical Experiment\results_qs_sweep_safe\qs_d50_rng3.txt
+Skipping existing log file: D:\Mine\Mani\ManiCSDP\Numerical Experiment\results_qs_sweep_safe\qs_d55_rng1.txt
+Log file: D:\Mine\Mani\ManiCSDP\Numerical Experiment\results_qs_sweep_safe\qs_d55_rng2.txt
+Case started at: 2026-05-09 14:22:52
+========== QS complex d=55 rng(2) ==========
+Generated quartic matrix size N = 1596
+qsmom_complex: SUCCESS, K.s = 1596, m = 3137, time = 3819.83s
+
+--- ManiCSDP ---
+ManiCSDP is starting...
+CSDP size: n = 1596, m = 3137
+Iter 1, obj:-75749.60033147, gap:1.0e+00, pinf:1.2e+02, dinf:1.6e-01, gradnorm:6.4e+02, r:1, p:1, sigma:1.000, time:4.76s
+Iter 2, obj:-13610.83895659, gap:9.8e-01, pinf:2.1e+01, dinf:2.1e-02, gradnorm:2.0e+02, r:7, p:7, sigma:2.000, time:9.98s
+Iter 3, obj:-1079.34016052, gap:7.7e-01, pinf:1.5e+00, dinf:0.0e+00, gradnorm:1.2e+00, r:6, p:13, sigma:4.000, time:17.87s
+Iter 4, obj:-167.92599646, gap:1.2e-01, pinf:4.2e-01, dinf:0.0e+00, gradnorm:3.6e-02, r:3, p:6, sigma:8.000, time:29.23s
+Iter 5, obj:-180.39199668, gap:1.9e-01, pinf:3.1e-01, dinf:2.7e-03, gradnorm:2.2e+00, r:3, p:3, sigma:16.000, time:37.36s
+Iter 6, obj:-175.01592311, gap:2.1e-01, pinf:2.0e-01, dinf:2.2e-03, gradnorm:1.4e+00, r:6, p:6, sigma:32.000, time:46.49s
+Iter 7, obj:-155.29002175, gap:1.8e-01, pinf:1.3e-01, dinf:5.2e-03, gradnorm:3.9e+00, r:8, p:8, sigma:64.000, time:56.69s
+Iter 8, obj:-137.61436812, gap:1.3e-01, pinf:1.1e-01, dinf:5.2e-05, gradnorm:5.1e+00, r:10, p:10, sigma:64.000, time:67.16s
+Iter 9, obj:-125.18994943, gap:1.1e-01, pinf:9.1e-02, dinf:1.1e-02, gradnorm:2.2e+00, r:11, p:11, sigma:64.000, time:76.00s
+Iter 10, obj:-124.95285189, gap:1.1e-01, pinf:8.4e-02, dinf:6.7e-03, gradnorm:7.9e-01, r:17, p:17, sigma:64.000, time:86.89s
+Iter 11, obj:-117.43867157, gap:7.7e-02, pinf:5.8e-02, dinf:0.0e+00, gradnorm:6.1e+00, r:20, p:23, sigma:128.000, time:96.62s
+Iter 12, obj:-112.62466722, gap:6.7e-02, pinf:5.7e-02, dinf:3.5e-03, gradnorm:3.7e+00, r:20, p:20, sigma:64.000, time:104.13s
+Iter 13, obj:-108.72474600, gap:5.8e-02, pinf:5.5e-02, dinf:1.9e-03, gradnorm:1.2e+00, r:24, p:24, sigma:64.000, time:118.15s
+Iter 14, obj:-108.37261853, gap:6.0e-02, pinf:4.1e-02, dinf:1.4e-03, gradnorm:9.8e-01, r:26, p:26, sigma:64.000, time:132.95s
+Iter 15, obj:-106.59652110, gap:5.6e-02, pinf:3.7e-02, dinf:2.6e-03, gradnorm:9.6e-02, r:28, p:29, sigma:64.000, time:146.44s
+Iter 16, obj:-105.08114809, gap:5.1e-02, pinf:3.3e-02, dinf:3.7e-03, gradnorm:9.0e-01, r:29, p:30, sigma:128.000, time:161.14s
+Iter 17, obj:-102.49850029, gap:4.4e-02, pinf:2.9e-02, dinf:5.2e-03, gradnorm:1.1e-01, r:31, p:33, sigma:128.000, time:173.82s
+Iter 18, obj:-100.52517747, gap:3.8e-02, pinf:2.3e-02, dinf:6.2e-03, gradnorm:1.0e-01, r:34, p:35, sigma:256.000, time:188.75s
+Iter 19, obj:-98.27271000, gap:2.8e-02, pinf:1.8e-02, dinf:1.3e-02, gradnorm:1.6e+00, r:36, p:37, sigma:512.000, time:203.04s
+Iter 20, obj:-95.46186129, gap:1.9e-02, pinf:1.5e-02, dinf:1.5e-02, gradnorm:6.8e-01, r:42, p:42, sigma:512.000, time:217.26s
+Iter 21, obj:-94.07943286, gap:1.1e-02, pinf:1.1e-02, dinf:7.3e-03, gradnorm:1.3e+00, r:48, p:48, sigma:512.000, time:232.30s
+Iter 22, obj:-93.63034935, gap:4.7e-03, pinf:8.9e-03, dinf:3.5e-04, gradnorm:2.1e+00, r:51, p:53, sigma:256.000, time:249.83s
+Iter 23, obj:-92.75738814, gap:2.8e-03, pinf:8.2e-03, dinf:2.1e-03, gradnorm:1.2e+00, r:51, p:52, sigma:128.000, time:261.47s
+Iter 24, obj:-92.11913351, gap:2.2e-03, pinf:9.9e-03, dinf:2.7e-04, gradnorm:1.9e-03, r:52, p:52, sigma:64.000, time:280.00s
+Iter 25, obj:-92.74895904, gap:4.8e-03, pinf:4.4e-03, dinf:0.0e+00, gradnorm:3.0e-01, r:53, p:58, sigma:128.000, time:299.19s
+Iter 26, obj:-92.50248798, gap:4.4e-03, pinf:4.3e-03, dinf:1.7e-10, gradnorm:1.1e-07, r:53, p:53, sigma:128.000, time:318.83s
+Iter 27, obj:-92.49655732, gap:4.5e-03, pinf:4.1e-03, dinf:7.3e-04, gradnorm:3.5e-05, r:53, p:59, sigma:256.000, time:337.98s
+Iter 28, obj:-92.45874513, gap:1.3e-03, pinf:3.5e-03, dinf:2.9e-03, gradnorm:1.2e+00, r:54, p:59, sigma:512.000, time:352.04s
+Iter 29, obj:-91.75178681, gap:5.2e-04, pinf:4.3e-03, dinf:6.1e-04, gradnorm:4.4e-01, r:55, p:57, sigma:256.000, time:360.35s
+Iter 30, obj:-91.79745599, gap:9.1e-04, pinf:2.9e-03, dinf:1.6e-08, gradnorm:6.5e-06, r:55, p:56, sigma:128.000, time:370.58s
+Iter 31, obj:-91.90554418, gap:1.5e-03, pinf:2.0e-03, dinf:2.0e-03, gradnorm:2.2e-04, r:55, p:61, sigma:256.000, time:381.13s
+Iter 32, obj:-91.88642497, gap:1.8e-03, pinf:1.4e-03, dinf:2.9e-03, gradnorm:1.4e+00, r:56, p:61, sigma:512.000, time:389.24s
+Iter 33, obj:-91.52183545, gap:1.0e-03, pinf:1.9e-03, dinf:3.1e-03, gradnorm:4.1e-01, r:56, p:58, sigma:256.000, time:399.33s
+Iter 34, obj:-91.39837583, gap:1.2e-03, pinf:4.0e-03, dinf:4.2e-09, gradnorm:9.7e-07, r:56, p:59, sigma:128.000, time:410.17s
+Iter 35, obj:-91.64733595, gap:1.1e-04, pinf:2.1e-05, dinf:3.7e-09, gradnorm:1.5e-06, r:56, p:62, sigma:256.000, time:420.03s
+Iter 36, obj:-91.63918863, gap:6.5e-05, pinf:1.3e-05, dinf:4.0e-10, gradnorm:2.1e-07, r:56, p:62, sigma:512.000, time:430.09s
+Iter 37, obj:-91.63228097, gap:2.8e-05, pinf:5.3e-06, dinf:1.2e-09, gradnorm:7.7e-07, r:56, p:62, sigma:1024.000, time:439.97s
+Iter 38, obj:-91.62856445, gap:7.4e-06, pinf:1.4e-06, dinf:2.5e-10, gradnorm:1.5e-07, r:56, p:62, sigma:2048.000, time:449.78s
+Iter 39, obj:-91.62740908, gap:1.2e-06, pinf:2.2e-07, dinf:3.7e-08, gradnorm:2.7e-05, r:56, p:62, sigma:4096.000, time:459.67s
+Iter 40, obj:-91.62725326, gap:3.1e-07, pinf:6.0e-08, dinf:4.2e-10, gradnorm:2.6e-07, r:56, p:62, sigma:2048.000, time:469.56s
+Iter 41, obj:-91.62720528, gap:4.8e-08, pinf:1.0e-08, dinf:4.3e-08, gradnorm:3.1e-05, r:56, p:62, sigma:4096.000, time:479.43s
+Iter 42, obj:-91.62719839, gap:1.2e-08, pinf:7.1e-09, dinf:4.2e-10, gradnorm:2.7e-07, r:56, p:62, sigma:2048.000, time:489.28s
+Iter 43, obj:-91.62719686, gap:3.3e-09, pinf:6.7e-10, dinf:6.0e-10, gradnorm:3.7e-07, r:56, p:62, sigma:2048.000, time:499.10s
+Optimality is reached!
+ManiCSDP: optimum = -91.62719686, time = 499.10s
+ManiCSDP: SUCCESS, optimum = -91.62719686, eta = 3.3e-09, time = 499.21s
+
+--- SeDuMi ---
+SeDuMi: DONE, numerr = 0, iter = 21, time = 1269.48s
+SeDuMi: optimum = -91.62719698, pinf = 2.75e-08, dinf = 0.00e+00, gap = 9.43e-11
+
+--- convertCtoR ---
+convertCtoR: SUCCESS, K_r.s = 3192, m = 3137, time = 310.80s
+
+--- ManiSDP ---
+ManiSDP is starting...
+SDP size: n = 3192, m = 3137
+Iter 1, obj:-71937.39031895, gap:1.0e+00, pinf:1.2e+02, dinf:1.6e-01, gradnorm:8.2e+02, r:1, p:1, sigma:1.000, time:3.65s
+Iter 2, obj:-13586.54176731, gap:9.8e-01, pinf:2.1e+01, dinf:2.1e-02, gradnorm:1.5e+02, r:7, p:7, sigma:2.000, time:9.33s
+Iter 3, obj:-1073.75155801, gap:7.6e-01, pinf:1.6e+00, dinf:0.0e+00, gradnorm:7.7e-01, r:7, p:13, sigma:4.000, time:18.47s
+Iter 4, obj:-151.38854648, gap:5.7e-02, pinf:4.5e-01, dinf:0.0e+00, gradnorm:5.2e-02, r:6, p:7, sigma:8.000, time:30.88s
+Iter 5, obj:-185.99862896, gap:2.0e-01, pinf:3.1e-01, dinf:8.4e-04, gradnorm:1.5e+00, r:6, p:6, sigma:16.000, time:38.77s
+Iter 6, obj:-163.46880173, gap:1.7e-01, pinf:2.1e-01, dinf:5.9e-03, gradnorm:1.0e+00, r:8, p:8, sigma:32.000, time:50.48s
+Iter 7, obj:-149.71116252, gap:1.7e-01, pinf:1.5e-01, dinf:1.5e-02, gradnorm:5.6e-01, r:12, p:12, sigma:64.000, time:59.38s
+Iter 8, obj:-131.57219420, gap:1.3e-01, pinf:1.0e-01, dinf:1.8e-02, gradnorm:2.8e+00, r:18, p:18, sigma:128.000, time:69.01s
+Iter 9, obj:-123.02874788, gap:1.0e-01, pinf:8.7e-02, dinf:1.5e-02, gradnorm:5.2e+00, r:24, p:24, sigma:128.000, time:77.05s
+Iter 10, obj:-115.21004535, gap:6.9e-02, pinf:7.6e-02, dinf:7.5e-03, gradnorm:6.1e+00, r:30, p:30, sigma:128.000, time:85.11s
+Iter 11, obj:-111.15030108, gap:5.7e-02, pinf:6.7e-02, dinf:3.6e-03, gradnorm:7.0e+00, r:36, p:36, sigma:128.000, time:95.82s
+Iter 12, obj:-102.08427617, gap:3.3e-02, pinf:7.5e-02, dinf:7.6e-03, gradnorm:2.9e+00, r:40, p:40, sigma:64.000, time:107.05s
+Iter 13, obj:-103.75343251, gap:4.1e-02, pinf:5.7e-02, dinf:3.1e-03, gradnorm:1.6e+00, r:46, p:46, sigma:64.000, time:120.44s
+Iter 14, obj:-103.88249814, gap:4.4e-02, pinf:3.9e-02, dinf:4.5e-03, gradnorm:9.9e-01, r:52, p:52, sigma:64.000, time:133.40s
+Iter 15, obj:-103.70374772, gap:4.2e-02, pinf:4.1e-02, dinf:2.2e-05, gradnorm:1.7e+00, r:58, p:58, sigma:64.000, time:147.11s
+Iter 16, obj:-101.33897063, gap:3.7e-02, pinf:3.0e-02, dinf:3.8e-03, gradnorm:2.9e-01, r:58, p:60, sigma:64.000, time:162.04s
+Iter 17, obj:-100.93466455, gap:3.8e-02, pinf:2.6e-02, dinf:3.0e-03, gradnorm:1.4e-03, r:64, p:64, sigma:128.000, time:177.54s
+Iter 18, obj:-99.32662080, gap:3.4e-02, pinf:2.1e-02, dinf:7.1e-03, gradnorm:5.7e-02, r:68, p:70, sigma:256.000, time:193.37s
+Iter 19, obj:-97.12084429, gap:1.4e-02, pinf:1.6e-02, dinf:5.5e-03, gradnorm:3.9e+00, r:74, p:74, sigma:512.000, time:207.32s
+Iter 20, obj:-96.00971034, gap:1.1e-02, pinf:1.9e-02, dinf:4.9e-03, gradnorm:2.4e+00, r:80, p:80, sigma:256.000, time:219.63s
+Iter 21, obj:-93.37763241, gap:7.4e-03, pinf:2.4e-02, dinf:5.6e-03, gradnorm:4.2e-01, r:86, p:86, sigma:128.000, time:232.26s
+Iter 22, obj:-94.53961033, gap:1.3e-02, pinf:1.1e-02, dinf:6.0e-03, gradnorm:2.9e-01, r:90, p:92, sigma:256.000, time:245.88s
+Iter 23, obj:-93.81199523, gap:2.9e-03, pinf:1.0e-02, dinf:9.3e-06, gradnorm:2.2e+00, r:96, p:96, sigma:256.000, time:262.24s
+Iter 24, obj:-93.69528167, gap:5.4e-03, pinf:8.0e-03, dinf:8.9e-04, gradnorm:1.4e+00, r:96, p:98, sigma:128.000, time:280.07s
+Iter 25, obj:-92.67854828, gap:5.0e-03, pinf:1.3e-02, dinf:3.2e-03, gradnorm:8.9e-02, r:98, p:100, sigma:64.000, time:296.07s
+Iter 26, obj:-93.10111310, gap:7.7e-03, pinf:7.5e-03, dinf:1.0e-03, gradnorm:1.3e-01, r:100, p:104, sigma:128.000, time:312.90s
+Iter 27, obj:-92.98923658, gap:7.1e-03, pinf:5.0e-03, dinf:2.0e-03, gradnorm:4.2e-03, r:102, p:106, sigma:256.000, time:331.92s
+Iter 28, obj:-92.51550816, gap:5.0e-03, pinf:4.1e-03, dinf:6.3e-03, gradnorm:1.2e-01, r:104, p:108, sigma:512.000, time:350.67s
+Iter 29, obj:-92.30902471, gap:1.6e-03, pinf:3.1e-03, dinf:5.5e-03, gradnorm:7.3e-01, r:106, p:110, sigma:512.000, time:366.64s
+Iter 30, obj:-91.49848606, gap:7.0e-04, pinf:5.1e-03, dinf:1.6e-08, gradnorm:3.3e-06, r:110, p:112, sigma:256.000, time:385.68s
+Iter 31, obj:-91.79926728, gap:9.3e-04, pinf:1.8e-04, dinf:3.1e-09, gradnorm:2.2e-06, r:110, p:116, sigma:512.000, time:404.41s
+Iter 32, obj:-91.70003105, gap:4.0e-04, pinf:7.6e-05, dinf:1.6e-10, gradnorm:5.6e-08, r:110, p:116, sigma:1024.000, time:424.14s
+Iter 33, obj:-91.64677925, gap:1.1e-04, pinf:2.0e-05, dinf:5.8e-10, gradnorm:1.1e-07, r:110, p:116, sigma:2048.000, time:443.67s
+Iter 34, obj:-91.63024002, gap:1.7e-05, pinf:3.2e-06, dinf:8.4e-09, gradnorm:4.7e-06, r:110, p:116, sigma:4096.000, time:463.04s
+Iter 35, obj:-91.62745228, gap:1.4e-06, pinf:2.7e-07, dinf:6.5e-07, gradnorm:3.4e-04, r:110, p:116, sigma:8192.000, time:482.99s
+Iter 36, obj:-91.62723694, gap:2.2e-07, pinf:6.7e-08, dinf:1.0e-08, gradnorm:4.9e-06, r:110, p:116, sigma:4096.000, time:503.35s
+Iter 37, obj:-91.62720260, gap:3.5e-08, pinf:6.7e-09, dinf:1.9e-08, gradnorm:9.3e-06, r:110, p:116, sigma:4096.000, time:523.24s
+Iter 38, obj:-91.62719793, gap:9.1e-09, pinf:3.0e-09, dinf:1.1e-10, gradnorm:5.3e-08, r:111, p:116, sigma:2048.000, time:543.08s
+Optimality is reached!
+ManiSDP: optimum = -91.62719793, time = 543.09s
+ManiSDP: SUCCESS, optimum = -91.62719793, eta = 9.1e-09, time = 543.15s
+
+=== Summary marker: QS d=55 rng(2) attempted first three solvers; MOSEK skipped ===
+Case status: ATTEMPTED
+Case finished at: 2026-05-09 16:10:15
+========== CASE END ==========
+Log file: D:\Mine\Mani\ManiCSDP\Numerical Experiment\results_qs_sweep_safe\qs_d55_rng3.txt
+Case started at: 2026-05-09 16:10:15
+========== QS complex d=55 rng(3) ==========
+Generated quartic matrix size N = 1596

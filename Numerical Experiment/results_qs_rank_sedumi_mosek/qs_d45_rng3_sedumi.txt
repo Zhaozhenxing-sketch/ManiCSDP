@@ -1,0 +1,84 @@
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\examples] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\autodiff] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\autodiff\basic_examples_AD] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\autodiff\functions_AD] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\core] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\lifts] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\complexcircle] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\essential] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\essential\privateessential] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\euclidean] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\fixedrank] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\fixedranktensors] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\grassmann] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\hyperbolic] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\multinomial] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\oblique] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\positive] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\rotations] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\specialeuclidean] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\sphere] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\stiefel] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\symfixedrank] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\ttfixedrank] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\ttfixedrank\TTeMPS_1.1] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\ttfixedrank\TTeMPS_1.1\algorithms] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\ttfixedrank\TTeMPS_1.1\algorithms\completion] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\ttfixedrank\TTeMPS_1.1\algorithms\eigenvalue] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\ttfixedrank\TTeMPS_1.1\algorithms\linearsystem] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\ttfixedrank\TTeMPS_1.1\examples] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\manifolds\ttfixedrank\TTeMPS_1.1\operators] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\solvers] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\solvers\arc] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\solvers\barzilaiborwein] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\solvers\bfgs] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\solvers\conjugategradient] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\solvers\gradientapproximations] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\solvers\hessianapproximations] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\solvers\linesearch] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\solvers\neldermead] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\solvers\preconditioners] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\solvers\pso] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\solvers\steepestdescent] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\solvers\stochasticgradient] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\solvers\trustregions] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\manopt\manopt\tools] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\Numerical Experiment] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\src] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\src\basicfunction] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\src\C-files] 
+[警告: 名称不存在或不是目录: D:\Mine\ManiCSDP\src\primal] 
+========== QS rank case START ==========
+d = 45, rng(3), solver = sedumi
+rank tolerance: eigenvalue > 1.0e-05
+Started at: 2026-05-09 18:33:52
+[警告: 函数 tensorprod 与某个 MATLAB 内置函数同名。建议您重命名该函数以避免潜在的名称冲突。] 
+[> 位置：path (第 109 行)
+位置: addpath>doPathAddition (第 126 行)
+位置: addpath (第 90 行)
+位置: run_qs_rank_case>add_required_paths (第 151 行)
+位置: run_qs_rank_case (第 12 行)] 
+
+=== Function path preflight ===
+qsmom_complex -> D:\Mine\Mani\ManiCSDP\src\basicfunction\qsmom_complex.m
+sedumi -> D:\matlab\cvx\sedumi\sedumi.m
+=== Function path preflight END ===
+
+Generated quartic matrix size N = 1081
+qsmom_complex: SUCCESS, K.s = 1081, m = 2117, time = 849.53s
+
+--- SeDuMi rank run ---
+SeDuMi: DONE, numerr = 0, iter = 21, time = 401.69s
+SeDuMi: optimum = -75.4729013842, pinf = 1.403e-08, dinf = 0.000e+00, gap = 3.650e-11
+SeDuMi complex X rank(> 1.0e-05) = 46
+SeDuMi complex X eigenvalue max = 1.277647523052e+00, min = 3.511561237664e-11
+SeDuMi complex X top 12 eigenvalues:
+ 1.277647523052e+00 7.283194809431e-02 6.772150485056e-02 6.066385315341e-02 5.572992159517e-02 5.361912223364e-02 4.961657280230e-02 4.830325061316e-02 4.546057905626e-02 4.381327655983e-02 4.251875191039e-02 4.010830699646e-02
+SeDuMi complex X bottom 6 eigenvalues:
+ 3.551806606149e-11 3.548417475438e-11 3.539941698640e-11 3.529045684677e-11 3.514116060329e-11 3.511561237664e-11
+Finished at: 2026-05-09 18:54:45
+========== QS rank case END ==========

@@ -1,0 +1,28 @@
+Log: D:\Mine\Mani\ManiCSDP\Numerical Experiment\results_bqp_overnight\bqp_sedumi_d25_rng4.txt
+Started: 2026-05-07 02:30:47
+========== BQP SeDuMi  d=25  rng(4) ==========
+N (matrix size) = 351,  maxc = 1.6588e+00
+SeDuMi 1.3.7 by AdvOL, 2005-2008 and Jos F. Sturm, 1998-2003.
+Alg = 2: xz-corrector, Adaptive Step-Differentiation, theta = 0.250, beta = 0.500
+Status: ERROR
+内存不足。
+
+出错 getsymbada (第 56 行)
+            SYMBADA = SYMBADA + Ablks'*Ablks;
+
+出错 sedumi (第 382 行)
+ADA_sedumi_ = getsymbada(A,Ablkjc,DAt,K.sblkstart);
+
+出错 run_bqp_overnight>run_sedumi_case (第 114 行)
+    [x_sed, y_sed, info_sed] = sedumi(At_c', b_c, c_c/maxc_c, K_sedumi, pars);
+
+出错 run_bqp_overnight>@()run_sedumi_case(25,seed) (第 35 行)
+    run_case(@() run_sedumi_case(25, seed), out_dir, sprintf('bqp_sedumi_d25_rng%d.txt', seed));
+
+出错 run_bqp_overnight>run_case (第 58 行)
+        case_fun();
+
+出错 run_bqp_overnight (第 35 行)
+    run_case(@() run_sedumi_case(25, seed), out_dir, sprintf('bqp_sedumi_d25_rng%d.txt', seed));
+Finished: 2026-05-07 02:31:15
+========== CASE END ==========

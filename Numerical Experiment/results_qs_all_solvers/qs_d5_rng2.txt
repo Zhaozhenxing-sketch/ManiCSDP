@@ -1,0 +1,73 @@
+========================================
+QS complex  d=5  N=66  rng(2)
+Started: 2026-05-10 00:40:39
+========================================
+
+--- 生成约束矩阵 ---
+qsmom_complex: n=66, m=3427 (0.24s)
+convertCtoR:   n_r=132, m_r=3427
+
+--- ManiCSDP (complex SDP) ---
+ManiCSDP is starting...
+CSDP size: n = 66, m = 3427
+Iter 1, obj:-439.47911118, gap:1.0e+00, pinf:9.7e+00, dinf:9.5e-01, gradnorm:4.5e+01, r:1, p:1, sigma:1.000, time:0.01s
+Iter 2, obj:-812.45011635, gap:9.9e-01, pinf:8.5e+00, dinf:7.2e-01, gradnorm:4.2e+01, r:7, p:7, sigma:2.000, time:0.02s
+Iter 3, obj:-469.73797196, gap:9.3e-01, pinf:5.2e+00, dinf:4.2e-01, gradnorm:1.1e+02, r:13, p:13, sigma:4.000, time:0.03s
+Iter 4, obj:-264.92488775, gap:7.8e-01, pinf:2.9e+00, dinf:1.1e-01, gradnorm:3.8e+01, r:19, p:19, sigma:4.000, time:0.05s
+Iter 5, obj:-23.31703612, gap:7.7e-02, pinf:4.9e-01, dinf:8.2e-03, gradnorm:1.5e+00, r:22, p:25, sigma:8.000, time:0.06s
+Iter 6, obj:-17.07484869, gap:1.4e-01, pinf:2.1e-01, dinf:4.0e-02, gradnorm:4.4e+00, r:21, p:26, sigma:16.000, time:0.08s
+Iter 7, obj:-23.43359660, gap:4.5e-03, pinf:1.3e-01, dinf:4.7e-02, gradnorm:7.3e+00, r:24, p:27, sigma:16.000, time:0.08s
+Iter 8, obj:-25.90545639, gap:2.5e-02, pinf:7.6e-02, dinf:2.1e-02, gradnorm:7.2e+00, r:23, p:28, sigma:16.000, time:0.10s
+Iter 9, obj:-24.84944770, gap:7.3e-03, pinf:4.2e-02, dinf:5.2e-05, gradnorm:1.3e-01, r:3, p:24, sigma:16.000, time:0.12s
+Iter 10, obj:-24.54362650, gap:1.5e-03, pinf:3.0e-03, dinf:3.1e-05, gradnorm:2.1e-02, r:1, p:4, sigma:32.000, time:0.14s
+Iter 11, obj:-24.48232586, gap:1.7e-04, pinf:2.5e-04, dinf:0.0e+00, gradnorm:2.0e-04, r:1, p:2, sigma:64.000, time:0.16s
+Iter 12, obj:-24.47393448, gap:7.4e-06, pinf:1.2e-05, dinf:0.0e+00, gradnorm:7.6e-07, r:1, p:1, sigma:128.000, time:0.18s
+Iter 13, obj:-24.47357512, gap:2.0e-07, pinf:3.3e-07, dinf:8.5e-12, gradnorm:1.1e-07, r:1, p:1, sigma:256.000, time:0.20s
+Iter 14, obj:-24.47356524, gap:5.4e-08, pinf:5.6e-09, dinf:0.0e+00, gradnorm:1.5e-05, r:1, p:2, sigma:512.000, time:0.22s
+Iter 15, obj:-24.47356485, gap:3.3e-09, pinf:8.3e-09, dinf:1.9e-12, gradnorm:4.7e-09, r:1, p:1, sigma:256.000, time:0.24s
+Optimality is reached!
+ManiCSDP: optimum = -24.47356485, time = 0.24s
+ManiCSDP: optimum=-24.47356485, eta=8.3e-09, time=0.24s
+
+--- ManiSDP (real SDP) ---
+ManiSDP is starting...
+SDP size: n = 132, m = 3427
+Iter 1, obj:-340.85377234, gap:1.0e+00, pinf:8.3e+00, dinf:8.2e-01, gradnorm:2.2e+01, r:1, p:1, sigma:1.000, time:0.01s
+Iter 2, obj:-608.92682626, gap:9.8e-01, pinf:7.8e+00, dinf:7.8e-01, gradnorm:6.0e+01, r:7, p:7, sigma:2.000, time:0.02s
+Iter 3, obj:-347.68034543, gap:9.1e-01, pinf:4.9e+00, dinf:4.9e-01, gradnorm:8.2e+01, r:13, p:13, sigma:4.000, time:0.03s
+Iter 4, obj:-206.72823652, gap:6.7e-01, pinf:2.4e+00, dinf:2.4e-01, gradnorm:7.3e+01, r:19, p:19, sigma:8.000, time:0.04s
+Iter 5, obj:-40.83811524, gap:1.4e-01, pinf:5.5e-01, dinf:1.3e-01, gradnorm:9.6e+00, r:25, p:25, sigma:16.000, time:0.05s
+Iter 6, obj:-27.82006451, gap:2.8e-02, pinf:2.1e-01, dinf:5.2e-02, gradnorm:4.5e+00, r:31, p:31, sigma:32.000, time:0.07s
+Iter 7, obj:-27.87041377, gap:4.2e-02, pinf:7.2e-02, dinf:5.1e-02, gradnorm:1.0e+01, r:37, p:37, sigma:64.000, time:0.08s
+Iter 8, obj:-18.99572800, gap:1.2e-01, pinf:1.0e-01, dinf:5.7e-04, gradnorm:1.3e-01, r:20, p:43, sigma:32.000, time:0.12s
+Iter 9, obj:-24.01768027, gap:2.5e-02, pinf:2.0e-02, dinf:1.0e-02, gradnorm:1.4e+00, r:20, p:24, sigma:64.000, time:0.13s
+Iter 10, obj:-24.38325249, gap:3.4e-03, pinf:3.5e-03, dinf:2.9e-04, gradnorm:5.1e-01, r:16, p:26, sigma:128.000, time:0.16s
+Iter 11, obj:-24.44726777, gap:6.1e-04, pinf:1.3e-03, dinf:0.0e+00, gradnorm:9.0e-02, r:3, p:18, sigma:64.000, time:0.18s
+Iter 12, obj:-24.47488282, gap:5.8e-05, pinf:1.5e-04, dinf:0.0e+00, gradnorm:1.5e-02, r:2, p:3, sigma:128.000, time:0.20s
+Iter 13, obj:-24.47298445, gap:1.1e-05, pinf:1.3e-05, dinf:1.2e-07, gradnorm:1.4e-03, r:2, p:2, sigma:256.000, time:0.22s
+Iter 14, obj:-24.47348844, gap:3.6e-06, pinf:2.8e-06, dinf:1.8e-06, gradnorm:5.6e-04, r:2, p:4, sigma:128.000, time:0.24s
+Iter 15, obj:-24.47367917, gap:2.7e-06, pinf:2.3e-06, dinf:1.3e-07, gradnorm:4.4e-04, r:2, p:4, sigma:64.000, time:0.26s
+Iter 16, obj:-24.47360493, gap:9.3e-07, pinf:2.5e-06, dinf:4.7e-08, gradnorm:6.5e-05, r:2, p:4, sigma:32.000, time:0.28s
+Iter 17, obj:-24.47357182, gap:1.8e-07, pinf:2.2e-07, dinf:1.6e-08, gradnorm:8.7e-06, r:2, p:4, sigma:64.000, time:0.30s
+Iter 18, obj:-24.47356585, gap:7.0e-10, pinf:2.6e-08, dinf:0.0e+00, gradnorm:1.4e-05, r:2, p:4, sigma:128.000, time:0.32s
+Iter 19, obj:-24.47356557, gap:1.3e-08, pinf:3.0e-08, dinf:0.0e+00, gradnorm:4.6e-06, r:2, p:2, sigma:64.000, time:0.34s
+Iter 20, obj:-24.47356419, gap:1.7e-08, pinf:2.8e-08, dinf:0.0e+00, gradnorm:6.1e-07, r:2, p:2, sigma:32.000, time:0.37s
+Iter 21, obj:-24.47356501, gap:4.1e-10, pinf:3.3e-09, dinf:0.0e+00, gradnorm:8.2e-07, r:2, p:2, sigma:64.000, time:0.39s
+Optimality is reached!
+ManiSDP: optimum = -24.47356501, time = 0.39s
+ManiSDP: optimum=-24.47356501, eta=3.3e-09, time=0.39s
+
+--- SeDuMi (complex SDP) ---
+SeDuMi: optimum=-24.47356512, pinf=3.42e-08, dinf=0.00e+00, gap=5.96e-10, time=76.85s  [numerr=1]
+
+--- MOSEK (real SDP) ---
+MOSEK: optimum=-24.47356502, pinf=2.19e-11, dinf=0.00e+00, gap=6.82e-13, time=1.30s
+
+=== SUMMARY  d=5  rng(2) ===
+Solver      optimum           eta       time
+ManiCSDP    -24.47356485    8.3e-09  0.24s
+ManiSDP     -24.47356501    3.3e-09  0.39s
+SeDuMi      -24.47356512              76.85s
+MOSEK       -24.47356502              1.30s
+========================================
+
