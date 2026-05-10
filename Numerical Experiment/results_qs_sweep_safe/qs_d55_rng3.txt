@@ -1,4 +1,0 @@
-Log file: D:\Mine\Mani\ManiCSDP\Numerical Experiment\results_qs_sweep_safe\qs_d55_rng3.txt
-Case started at: 2026-05-09 16:10:15
-========== QS complex d=55 rng(3) ==========
-Generated quartic matrix size N = 1596

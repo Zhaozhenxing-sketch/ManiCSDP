@@ -4,7 +4,7 @@ clc;
 
 rng(1);
 
-d = 5;
+d = 15;
 N = (2*d+1)*(d+1);
 
 % 生成随机四次型目标矩阵 Q
@@ -23,9 +23,9 @@ options.p0=1;
 options.tol = 1e-8;
 options.tau1=1e-2;
 options.tau2=1e-2;
-options.delta=6;
+options.delta=15;
 options.TR_maxinner=20;
-options.TR_maxiter=4;
+options.TR_maxiter=6;
 options.line_search = 1;
 tic;
 [X_mani, obj_mani, data_mani] = ManiCSDP(A_sdp', b_sdp, c_sdp, K, options);
@@ -76,11 +76,11 @@ options_r.p0 = 1;
 options_r.sigma0 = 1;
 options_r.sigma_min = 1e-1;
 options_r.theta=1e-2;
-options_r.delta=6;
+options_r.delta=15;
 options_r.tau1=1e-2;
 options_r.tau2=1e-2;
 options_r.TR_maxinner=20;
-options_r.TR_maxiter=4;
+options_r.TR_maxiter=6;
 options_r.line_search = 1;
 tic;
 [x_r, obj_r, data_r] = ManiSDP(At_r, b_r, c_r, K_r, options_r);
